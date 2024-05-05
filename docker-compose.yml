@@ -1,0 +1,26 @@
+# name: dean
+# services:
+#   nginx:
+#     # USES .ENV FROM THE MAIN DIR PATH, NOT NGINX
+#     extends: 
+#       file: ./nginx/docker-compose.yml
+#       service: nginx
+#   verdaccio:
+#     extends: 
+#       file: ./verdaccio/docker-compose.yml
+#       service: verdaccio
+
+# ## ONLY USES .ENV FROM THE FIRST PATH
+# # include:
+# #   - path:
+# #     - ./verdaccio/docker-compose.yml
+# #     - ./nginx/docker-compose.yml
+
+# # ONLY USES .ENV FROM THE FIRST PATH
+# # docker compose -f ./nginx/docker-compose.yml -f ./verdaccio/docker-compose.yml up -d
+
+# # CLOSE, BUT VARIABLES UNDER THE SAME NAME, SUCH AS PORT, NOW NEED TO BE NAMED SERVICE_PORT, OR THEY'RE OVERRIDDEN BY THE LAST --ENV-FILE
+# # docker compose --env-file ./nginx/.env --env-file ./verdaccio/.env up -d
+
+# # I CAN HAVE A SCRIPT ENTER EACH SERVICE AND PERFORM docker compose up -d
+# # BUT THAT MISSES THE POINT
