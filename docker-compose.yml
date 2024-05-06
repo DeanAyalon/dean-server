@@ -1,14 +1,18 @@
-# name: dean
-# services:
-#   nginx:
-#     # USES .ENV FROM THE MAIN DIR PATH, NOT NGINX
-#     extends: 
-#       file: ./nginx/docker-compose.yml
-#       service: nginx
-#   verdaccio:
-#     extends: 
-#       file: ./verdaccio/docker-compose.yml
-#       service: verdaccio
+# USES .ENV FROM THE MAIN DIR PATH, NOT NGINX
+services:
+  nginx:
+    extends: 
+      file: ./nginx/docker-compose.yml
+      service: nginx
+
+  verdaccio-live:
+    extends: 
+      file: ./verdaccio/docker-compose.yml
+      service: verdaccio-live
+  verdaccio-dev:
+    extends: 
+      file: ./verdaccio/docker-compose.yml
+      service: verdaccio-dev
 
 # ## ONLY USES .ENV FROM THE FIRST PATH
 # # include:
