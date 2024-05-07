@@ -2,16 +2,16 @@
 services:
   nginx:
     extends: 
-      file: ./nginx/docker-compose.yml
+      file: ./nginx/compose.yml
       service: nginx
 
-  verdaccio-live:
+  verdaccio:
     extends: 
-      file: ./verdaccio/docker-compose.yml
-      service: verdaccio-live
+      file: ./verdaccio/compose.yml
+      service: verdaccio
   verdaccio-dev:
     extends: 
-      file: ./verdaccio/docker-compose.yml
+      file: ./verdaccio/compose.yml
       service: verdaccio-dev
 
 # ## ONLY USES .ENV FROM THE FIRST PATH
