@@ -21,6 +21,8 @@ This repository contains separate configuration for live and dev containers, so 
 
 Use: `docker compose --profile <profile> <command>`
 
-* **Live**: Add `--profile live` to run the production container
-* **Dev**: Add `--profile dev` to use dev containers. Watch mode is configured for dev containers that copy files into the image.
-
+Profiles:
+* **live**: Production services
+* **dev**: Development-stage services. Watch mode is configured for dev profiles.
+* **legacy**: Legacy services, not updated or supported.
+**beta**: Beta version of services, either using beta images, or experimental features, use with care.
