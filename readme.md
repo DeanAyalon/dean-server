@@ -17,7 +17,7 @@ To use a single service as a standalone, separate from the stack's project, run 
 > Add `-p <project>` to run the container under a specific stack
 
 ## Profiles 
-This repository contains separate configuration for live and dev containers, so that they can run individually without interfering with each other
+This repository contains separate configuration for different containers according to profile. 
 
 Use: `docker compose --profile <profile> <command>`
 
