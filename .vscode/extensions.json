@@ -1,5 +1,9 @@
-{
-    "recommendations": [
-        "github.vscode-github-actions"
-    ]
-}
+// {
+//     "recommendations": [
+//         "ms-azuretools.vscode-docker",
+//         "github.vscode-github-actions",
+//         "william-voyek.vscode-nginx"
+//     ]
+// }
+
+// Will this recommend based on the inner repositories?
