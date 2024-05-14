@@ -3,3 +3,5 @@ include:
     - ./nginx/compose.yml
   - path:
     - ./verdaccio/compose.yml
+  - path:
+    - ./onedev/compose.yml
