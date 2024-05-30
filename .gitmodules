@@ -7,3 +7,6 @@
 [submodule "onedev"]
 	path = onedev
 	url = https://github.com/DeanAyalon/onedev
+[submodule "fms"]
+	path = fms
+	url = https://github.com/DeanAyalon/fms-docker

@@ -5,3 +5,5 @@ include:
     - ./verdaccio/compose.yml
   - path:
     - ./onedev/compose.yml
+  - path: 
+    - ./fms/compose.proxy.yml
