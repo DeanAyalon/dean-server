@@ -1,3 +1,4 @@
+name: dean-server
 include:
   - path:
     - ./nginx/compose.yml
