@@ -3,8 +3,6 @@ include:
   - path:
     - ./nginx/compose.yml
   - path:
-    - ./verdaccio/compose.yml
-  - path:
     - ./onedev/compose.yml
   - path: 
     - ./fms/compose.proxy.yml

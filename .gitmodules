@@ -1,9 +1,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/DeanAyalon/dean-nginx
-[submodule "verdaccio"]
-	path = verdaccio
-	url = https://github.com/DeanAyalon/verdaccio
 [submodule "onedev"]
 	path = onedev
 	url = https://github.com/DeanAyalon/onedev
