@@ -42,7 +42,7 @@ Use: `docker compose --profile <profile> <command>`
 [![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) 
 [![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-120e6d.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
 
-[![OneDev](https://custom-icon-badges.demolab.com/badge/onedev-black.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
+[![OneDev](https://custom-icon-badges.demolab.com/badge/onedev-23232c.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
 [![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.com)<br>
 [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)
 
