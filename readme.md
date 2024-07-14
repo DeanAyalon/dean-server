@@ -36,7 +36,7 @@ Use: `docker compose --profile <profile> <command>`
 * **prep**: Creates the prep container for initial FileMaker Server installation and imaging process
 
 ## Featured Technologies
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DeanAyalon/verdaccio/pkgs/container/verdaccio)
+[![Docker](https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/deanayalon)
 
 [![Claris FileMaker](https://img.shields.io/badge/claris-filemaker-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://claris.com)
 [![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) 
