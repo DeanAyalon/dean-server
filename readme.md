@@ -36,21 +36,21 @@ Use: `docker compose --profile <profile> <command>`
 * **prep**: Creates the prep container for initial FileMaker Server installation and imaging process
 
 ## Featured Technologies
-[![Docker](https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/deanayalon)
+[![Docker](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/deanayalon)
 
-[![Claris FileMaker](https://img.shields.io/badge/claris-filemaker-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://claris.com)
-[![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) 
-[![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-120e6d.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
+[![Claris FileMaker](https://img.shields.io/badge/claris-filemaker-black?style=for-the-badge&logo=claris)](https://claris.com)
+[![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black?style=for-the-badge&logo=claris)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) 
+[![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-120e6d?style=for-the-badge&logo=devin.fm)](https://devin.fm)
 
-[![OneDev](https://custom-icon-badges.demolab.com/badge/onedev-23232c.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
-[![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.com)<br>
-[nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)
+[![OneDev](https://custom-icon-badges.demolab.com/badge/onedev-23232c?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
+[![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx)](https://nginx.com)<br>
+[![nginx-proxy](https://custom-icon-badges.demolab.com/badge/nginx--proxy-F0F0F0?style=for-the-badge&logo=nginx-proxy-identicon&logoColor=D4AB64)](https://github.com/nginx-proxy/nginx-proxy)
 
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
-![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-[![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/DeanAyalon/verdaccio/actions)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)](https://npmjs.com)
+![Shell](https://img.shields.io/badge/shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-[![VSCode](https://img.shields.io/badge/vscode-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/DeanAyalon)
+[![VSCode](https://img.shields.io/badge/vscode-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/DeanAyalon)
 
 ## Previously used
-[![Verdaccio](https://img.shields.io/badge/Verdaccio-4B5E40.svg?style=for-the-badge&logo=verdaccio&logoColor=white)](https://github.com/verdaccio/verdaccio)
+[![Verdaccio](https://img.shields.io/badge/Verdaccio-4B5E40?style=for-the-badge&logo=verdaccio)](https://github.com/verdaccio/verdaccio)
+[![GitHub Actions](https://img.shields.io/badge/github-actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/DeanAyalon/verdaccio/actions)
